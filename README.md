@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **tiffanialya/tiffanialya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 **Welcome to My Portfolio**
@@ -9,7 +9,7 @@
   <p><i>ALYA TIFFANI PUTRI</i></p>
 </div>
 
----
+
 
 ### 🤝 **Let's Connect!**
 
