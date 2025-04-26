@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi there 👋 My Name is Alya Tiffani Putri
 
-
-**tiffanialya/tiffanialya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 **Welcome to My Portfolio**
 
